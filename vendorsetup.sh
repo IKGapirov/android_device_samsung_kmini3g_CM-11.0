@@ -1,0 +1,3 @@
+add_lunch_combo cm_kmini3g-eng
+add_lunch_combo cm_kmini3g-userdebug
+add_lunch_combo full_kmini3g-userdebug
